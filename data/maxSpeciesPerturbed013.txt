@@ -1,0 +1,2 @@
+Index,Name,Value
+20,G6P_ch,4.42650953594911
